@@ -105,3 +105,7 @@ Again, the IBM schematic has errors in it.
 1. Pin 37 and 39 of J1 (D shell connector) are swapped. EDACK3#, EIOR#.
 2. Pin 12 of U11 was tied to pin 3 of U2. It should be tied to pin 2 of U2. Signal ENABLE# was tied to pin 2 of U2. It should be tied to pin 3 of U2.
 
+# License
+
+This work is licensed under a Creative Commons Attribution 4.0 International License. See [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/).
+
