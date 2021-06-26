@@ -20,7 +20,10 @@ Incidentally, the 62-pin cable is available from Mouser Electronics,
 923-PCL-10162-1E. Use the 1 meter cable; anything longer may cause signal
 integrity issues.
 
-The IBM PC and XT BIOS runs some tests on the card on bootp. If you see an
+The card bracket, Mouser Electronics 534-9200-5, has been reported to fit.
+I have not personally tried it.
+
+The IBM PC and XT BIOS run some tests on the card on boot. If you see an
 "1801" code on boot, it may mean something as simple as an unconnected cable
 or an unpowered expansion chassis. It'll pop up for any other error with the
 card. For troubleshooting, you may have more luck writing test programs in
