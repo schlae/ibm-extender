@@ -16,6 +16,8 @@ contact is missing or not connected to a trace, the card should work.
 
 Further information on the IBM 5161 is available from [minuszerodegrees.net](http://minuszerodegrees.net/5161/doco/5161_documentation.htm).
 
+Someone else has reverse engineered and cloned the 5161 backplane. See [here](https://gitlab.com/trs-eric/5161-planar-backplane-board).
+
 Incidentally, the 62-pin cable is available from Mouser Electronics,
 923-PCL-10162-1E. Use the 1 meter cable; anything longer may cause signal
 integrity issues.
